@@ -21,3 +21,21 @@
 		git commit -m "mensaje del cambio"
 
 7- subir al repositorio web
+		git push
+
+
+# Orden de los comandos
+
+
+a- git clone (unico)
+
+		interacion:
+
+b- git add .
+c- git commit -m "mensaje"
+
+Solo para subir a la web
+
+d- git push 
+
+		
