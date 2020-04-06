@@ -1,6 +1,6 @@
 ﻿# Villegas Octavio
 # Tutorial de Git + GitHub
 
-Álvarez Martín
+Álvarez Martín  
 
 --La primera vez
